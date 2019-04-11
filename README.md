@@ -1,5 +1,5 @@
 # planets
-for collaborating!
-OK, now lets collaborate!
+for collaborating=
+We're changing this line! 
 this is cooperative.
 This is a new line!
