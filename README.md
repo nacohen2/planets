@@ -1,5 +1,5 @@
 # planets
 for collaborating!
-OK lets collaborate!
+OK, now lets collaborate!
 this is cooperative.
 This is a new line!
